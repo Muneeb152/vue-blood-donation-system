@@ -1,4 +1,4 @@
-# gmail
+# Blood Donation System
 
 ## Project setup
 ```
